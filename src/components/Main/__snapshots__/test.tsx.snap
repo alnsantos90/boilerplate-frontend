@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main /> should render the heading 1`] = `
+<main
+  class="bg-gray-900 text-white w-full h-[100vh] overflow-x-hidden overflow-y-hidden flex items-center flex-col justify-center"
+>
+  <div
+    class="flex items-center"
+  >
+    <img
+      alt="Alt Logo"
+      class="w-[8rem] mx-5"
+      src="assets/logo.svg"
+    />
+    <h1
+      class="text-7xl my-6"
+    >
+      Boilerplate NextJs
+    </h1>
+  </div>
+  <p
+    class="text-4xl max-w-3xl text-center leading-relaxed"
+  >
+    Boilerplate utilizando NextJs, Tailwindcss, Jest, Husky, React Testing library
+  </p>
+</main>
+`;
