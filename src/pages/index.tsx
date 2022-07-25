@@ -1,8 +1,7 @@
 import type { NextPage } from 'next'
-import { Main } from '../components/Main'
 
 const Home: NextPage = () => {
-  return <Main />
+  return <h1>Boilerplate NextJs with Taiwindcss</h1>
 }
 
 export default Home

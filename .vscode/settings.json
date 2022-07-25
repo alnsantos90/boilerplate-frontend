@@ -1,0 +1,9 @@
+// {
+//   "files.exclude": {
+//     "node_modules": true,
+//     ".github": true,
+//     ".scannerwork": true,
+//     "coverage": true,
+//     ".next": true,
+//   }
+// }
